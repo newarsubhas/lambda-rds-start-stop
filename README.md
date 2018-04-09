@@ -2,7 +2,7 @@
 
 RDS Start / Stop is a Lambda Function code aims to stop/start RDS's on a scheduled basis.
 
-And then before creating a lambda function, we need to create a IAM Role. Below you can find CFN template or IAM Policy Raw for this role. 
+before creating a lambda function, we need to create a IAM Role. Below you can find CFN template or IAM Policy Raw for this role. 
 
 Policy
 ```
